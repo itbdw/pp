@@ -2,7 +2,7 @@
 perfect player 中文电视节目列表
 
 移动宽带使用移动的，如
-ipta-jiangsu-mobile.m3u8
+iptv-jiangsu-mobile.m3u8
 
 联通宽带其他的
 
